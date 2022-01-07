@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "enchantablepumpkins",
+  "version": "${version}",
+  "name": "Enchantable Pumpkins",
+  "description": "Make carved pumpkins enchantable with helmet enchants",
+  "authors": [
+    "enjarai"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/enchantablepumpkins/icon.png",
+  "environment": "server",
+  "mixins": [
+    "enchantablepumpkins.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12.10",
+    "fabric": "*",
+    "minecraft": "*"
+  }
+}
