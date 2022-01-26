@@ -2,12 +2,15 @@
   "schemaVersion": 1,
   "id": "enchantablepumpkins",
   "version": "${version}",
-  "name": "Enchantable Pumpkins",
-  "description": "Make carved pumpkins enchantable with helmet enchants",
+  "name": "Shiny Pumpkins",
+  "description": "Makes carved pumpkins enchantable with helmet enchants.",
   "authors": [
     "enjarai"
   ],
-  "contact": {},
+  "contact": {
+    "issues": "https://github.com/enjarai/shiny-pumpkins/issues",
+    "sources": "https://github.com/enjarai/shiny-pumpkins"
+  },
   "license": "MIT",
   "icon": "assets/enchantablepumpkins/icon.png",
   "mixins": [
