@@ -1,0 +1,17 @@
+on: workflow_dispatch
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Kir-Antipov/mc-publish@v2.1
+        with:
+          loaders: |
+            fabric
+
+          modrinth-id: 5CfaAwzS
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          curseforge-id: 573535
+          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+
+          github-token: ${{ secrets.GITHUB_TOKEN }}
