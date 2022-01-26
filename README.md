@@ -10,6 +10,7 @@ Downloads:<br>
 A simple Minecraft mod to make carved pumpkins enchantable in anvils and enchanting tables. 
 
 Works with all helmet compatible enchantments:
+
 ![In Enchanting Table](img/enchantingtable.png)
 
 [fabric]: https://fabricmc.net
