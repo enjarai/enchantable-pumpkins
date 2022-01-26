@@ -7,7 +7,7 @@
 Downloads:<br>
 [Modrinth](https://modrinth.com/mod/shiny-pumpkins) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/shiny-pumpkins)
 
-A simple Minecraft mod to make carved pumpkins enchantable in anvils and enchanting tables. 
+A simple server-side Minecraft mod to make carved pumpkins enchantable in anvils and enchanting tables. 
 
 Works with all helmet compatible enchantments:
 
